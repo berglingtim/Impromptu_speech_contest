@@ -10,5 +10,5 @@
 ### C. Tradition and modernity are not enemies, but partners.
 #### Technology gives new life to tradition. Projects like Digital Dunhuang preserve ancient murals and make them accessible worldwide. Traditional wisdom also inspires modern life—for example, the idea of balance in Chinese medicine helps us think about sustainable development today.
 
-## 3. closing: 
+## 3. closing: 总结或者升华主题
 #### Tradition in a modern world is not about living in the past. It is about carrying the past into the future, giving us roots while we keep growing. If modernity is the wind that pushes us forward, tradition is the anchor that keeps us grounded.
