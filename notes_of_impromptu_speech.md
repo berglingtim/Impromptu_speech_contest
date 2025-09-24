@@ -6,7 +6,7 @@ I will show the notes of how I make a impromptu speech
 ## 3. 接下来我会给你针对这道题的例子
 ### Topic：Traditon in a modern world
 ### Hook(开头引入)：“When you look at China today, do you see skyscrapers or ancient temples? Do you see TikTok or Tang poetry?”
-                    可以抛出一个话题，或者讲一个小例子
+####                     可以抛出一个话题，或者讲一个小例子
 ### Points(观点): 
 #### (A) Tradition is not disappearing, it is transforming
 #### 节日：春节、端午 → 现代人依旧过，但形式更方便，比如线上买年货、数字红包。
