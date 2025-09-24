@@ -1,5 +1,5 @@
-# 1. traditionn in a modern world
-### hook: 举例子，抛出问题
+# 一、 traditionn in a modern world
+### 1. hook: 举例子，抛出问题
 #### “When you look at China today, what do you see first? The skyscrapers in Shanghai, or the ancient temples that have stood for centuries? The truth is, both are part of who we are.下面是简单的小例子. That moment made me realize: tradition never disappears; it simply transforms.”
 
 ## 2. points: 想出3层观点
